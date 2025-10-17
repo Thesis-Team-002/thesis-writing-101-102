@@ -4,7 +4,7 @@
 This project aims to develop a centralized system for disaster relief management that enhances coordination, transparency, and efficiency during relief operations. The system provides a unified platform for monitoring, recording, and managing disaster-related information to ensure that assistance is delivered accurately and on time.
 
 ## Features
-- **Real-Time Monitoring and Reporting** - The system shows live updates on relief operations.
+- **Monitoring and Reporting** - The system shows updates on relief operations.
 Admins can see which areas have received help.
 - **Track Donations and Relief Distribution** - The system records and monitors all donations and relief goods.
 It keeps track of what is received and where it is delivered,
