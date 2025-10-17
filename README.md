@@ -14,7 +14,57 @@ making the process organized, fair, and transparent.
 - **User Management and Access Control** - This feature allows the system administrator to manage user accounts and assign specific roles such as admin, staff, or volunteer. It ensures that only authorized personnel can access and modify sensitive data, maintaining system security and data integrity.
 - **Search and Filter Function** - Lets users quickly search for affected families, donations, or areas using keywords or filters (like location or status).
 
-[Screenshot] (https://github.com/user-attachments/assets/46311d9c-a7a3-4d5e-8993-d49e19fc4182) 
+  ## Installation Steps
+1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/d-r-system.git
+cd disaster-relief-system
+```
+2. Backend Setup ( Express + Node.js + MySQL)
+```bash
+cd backend
+npm install
+```
+Create a .env file inside the backend folder and add your configuration:
+```bash
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=disaster_relief_db
+PORT=5000
+```
+Run the backend server:
+```bash
+npm run dev
+```
+By default, it runs at http://localhost:5000
+3. Frontend Setup (React.js + Vite)
+```bash
+cd ../frontend
+npm install
+```
+Create a .env file inside the frontend folder:
+```bash
+VITE_API_URL=http://localhost:5000
+```
+Run the frontend:
+```bash
+npm run dev
+```
+4. Access the System
+Open your browser and go to:
+http://localhost:5173
+5. Installation Note
+```bash
+At this stage, the installation process for the system is not yet applicable, as the project is still in its development phase. 
+There are currently no available setup files, resources, or localhost configurations to demonstrate the installation. 
+
+Once the system is completed, this section will be updated to include detailed installation procedures, 
+such as cloning the repository, configuring the database, and running the system on a local server. 
+This serves as a placeholder for future documentation when the system becomes fully functional.
+```
+## Screenshot
+(https://github.com/user-attachments/assets/46311d9c-a7a3-4d5e-8993-d49e19fc4182) 
 
 ## Academic Context:
 This project is developed by 4th-year Computer Science students of Mabini Colleges, Inc., as a fulfillment of the academic rrequirements in THS 101 (Thesis Writing 101).
