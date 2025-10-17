@@ -17,7 +17,7 @@ making the process organized, fair, and transparent.
   ## Installation Steps
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/d-r-system.git
+git clone https://github.com/d-r-system.git
 cd disaster-relief-system
 ```
 2. Backend Setup ( Express + Node.js + MySQL)
