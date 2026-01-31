@@ -1,4 +1,4 @@
-# Web-Based Disaster Relief Assistance and Monitoring System for Affected Communities 
+# FADDS: A Web based data-driven support system for equitable distribution of government assistance
 
 
 This project aims to develop a centralized system for disaster relief management that enhances coordination, transparency, and efficiency during relief operations. The system provides a unified platform for monitoring, recording, and managing disaster-related information to ensure that assistance is delivered accurately and on time.
