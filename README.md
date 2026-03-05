@@ -7,17 +7,22 @@ The system provides a centralized platform for recording beneficiary information
 FADDS is designed to support barangay-level operations by improving documentation, monitoring, and reporting of assistance programs while promoting transparency and accountability in local governance.
 
 ## Features
-- **Monitoring and Reporting** - The system shows updates on relief operations.
-Admins can see which areas have received help.
-- **Track Donations and Relief Distribution** - The system records and monitors all donations and relief goods.
-It keeps track of what is received and where it is delivered,
-making the process organized, fair, and transparent.
-- **List of the affected families and their needs** - Shows a list of the affected families and what they need.  
-- **Notification and Alert System** - The system can send alerts or notifications to users and administrators regarding new disaster events, donation updates, or urgent relief needs. This feature helps improve communication and ensures timely responses during emergencies.
-- **User Management and Access Control** - This feature allows the system administrator to manage user accounts and assign specific roles such as admin, staff, or volunteer. It ensures that only authorized personnel can access and modify sensitive data, maintaining system security and data integrity.
-- **Search and Filter Function** - Lets users quickly search for affected families, donations, or areas using keywords or filters (like location or status).
 
-  ## Installation Steps
+**Beneficiary Data Management** - The system provides a centralized database for storing and managing beneficiary information. Barangay officials can record, update, and maintain profiles of residents who may qualify for government assistance.
+
+**Socio-Economic Data Encoding** - Barangay staff can encode relevant socio-economic information such as household size, employment status, income level, and housing conditions. This data serves as the basis for determining eligibility and prioritization of beneficiaries.
+
+**Data-Driven Prioritization and Ranking** - The system automatically evaluates and ranks beneficiaries based on predefined socio-economic criteria. This feature helps ensure that assistance is distributed objectively and fairly, reducing reliance on subjective decision-making.
+
+**Assistance Documentation and Tracking** - All government assistance records are stored and documented within the system. This allows barangay officials to track which beneficiaries received aid, what type of assistance was provided, and when the distribution occurred.
+
+**Monitoring and Reporting** - The system provides reporting tools that allow administrators to generate summaries of beneficiaries, aid distribution, and assistance programs. These reports help improve transparency and support data-driven decision-making.
+
+**Search and Filter Function** - Users can easily search and filter beneficiary records using keywords or categories such as name, location, or assistance status. This helps speed up data retrieval and improves system usability.
+
+**User Management and Access Control** - The system administrator can manage user accounts and assign roles such as administrator or staff. This ensures that only authorized users can access or modify sensitive data within the system.
+
+ ## Installation Steps
 1. Clone the Repository
 ```bash
 git clone https://github.com/angelicajanedevera-dot/d-r-system.git
