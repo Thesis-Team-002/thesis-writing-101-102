@@ -1,4 +1,4 @@
-FADDS: A Web-Based Data-Driven Decision Support System for Equitable Distribution of Government Assistance
+## FADDS: A Web-Based Data-Driven Decision Support System for Equitable Distribution of Government Assistance
 
 This project aims to develop a web-based Fair Aid Distribution and Documentation System (FADDS) that supports barangay officials in managing and distributing government assistance in a more transparent, organized, and data-driven manner.
 
